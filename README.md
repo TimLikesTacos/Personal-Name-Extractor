@@ -21,7 +21,7 @@ For example:
 >System.out.println(marked);
 >```
 Output:
->`"<PER>Aryton Senna<PER> was from Brazil"`
+>`"<PER>Aryton Senna</PER> was from Brazil"`
 
 ### Jar File
 The project also comes with an executable .jar file that reads from the standard input and standard output.   This can be used for reading text files.
